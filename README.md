@@ -8,3 +8,4 @@
 2.封裝(Encapsulation)  
 3.繼承(Inheritance)  
 4.多型(Polymorphism)  
+## [Python 練習網站](https://buzzorange.com/techorange/2022/07/26/python-challenge/)  
