@@ -10,3 +10,4 @@
 4.多型(Polymorphism)  
 ## [Python 練習網站](https://buzzorange.com/techorange/2022/07/26/python-challenge/)  
 ## 面試相關網站:
+## [Cross-industry Standard process for data mining(CRISP_DM)](https://adamsanalysis.com/data-science/crisp-dm-introduction)
