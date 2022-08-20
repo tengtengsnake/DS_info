@@ -21,7 +21,7 @@
 ## 面試相關網站:
 ## [Cross-industry Standard process for data mining(CRISP_DM)](https://adamsanalysis.com/data-science/crisp-dm-introduction)
 ## [Text-mining](https://www.cc.ntu.edu.tw/chinese/epaper/0031/20141220_3101.html)  
-搜尋引擎中文字探勘常會遇到的典型問題： 
+搜尋引擎中文字探勘常會遇到的典型問題：   
 ● 要怎麼樣找到一篇文章或網頁其關鍵字、圖片、主題   
 ● 要怎麼樣使用數學公式來識別文章或網頁  
 ● 要怎麼樣處理關鍵字及文章的相似度確認  
