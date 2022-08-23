@@ -16,7 +16,9 @@
 + 面對巨量資料時，Hadoop 的做法是採用分散式計算的技術處理各節點上的資料  
 + 在各個節點上處理資料片段，把工作分散、分佈出去的這個階段叫做 Mapping；接下來把各節點運算出的結果直接傳送回來歸納整合，這個階段就叫做 Reducing。這樣多管齊下、在上千台機器上平行處理巨量資料，可以大大節省資料處理的時間  
 + 處理資料的 Script 語言「Pig」、類似 SQL 語法查詢功能的「Hive」、專門用在 Hadoop 上的資料庫系統「HBase」等  
-
+## [kubernetes  (k8s)](https://cwhu.medium.com/kubernetes-basic-concept-tutorial-e033e3504ec0)  
++ 是一個可以幫助我們管理微服務（microservices）的系統，他可以自動化地部署及管理多台機器上的多個容器（Container)  
++ 
 ## [Python 練習網站](https://buzzorange.com/techorange/2022/07/26/python-challenge/)  
 ## 面試相關網站:
 ## [Cross-industry Standard process for data mining(CRISP_DM)](https://adamsanalysis.com/data-science/crisp-dm-introduction)
